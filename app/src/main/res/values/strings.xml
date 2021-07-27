@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WebSocketVPN</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="connecting">WebSocket VPN is Connecting…</string>
+    <string name="connected">WebSocket VPN Connected</string>
+    <string name="not_configured">WebSocket VPN is not configured.</string>
+</resources>
